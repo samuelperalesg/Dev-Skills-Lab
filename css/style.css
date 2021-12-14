@@ -1,0 +1,49 @@
+ol {
+  list-style: none;
+  color: rgb(253, 171, 53);
+}
+
+.delete-btn {
+  background-color: red;
+  color: white;
+  margin-right: 1rem;
+  border: none;
+  border-radius: 3px;
+}
+
+input {
+  height: 1.5rem;
+  border-style: solid;
+  border-color: rgb(149, 198, 125);
+}
+
+.addSkill-btn {
+  height: 1.5rem;
+  background-color: white;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10rem;
+}
+
+.center {
+  margin-left: 38rem;
+}
+
+span {
+  background-color: rgb(149, 198, 125);
+  color: white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.addSkill-btn {
+  border-style: solid;
+  background-color: none;
+  border-color: rgb(149, 198, 125);
+  color: rgb(149, 198, 125);
+  
+}
+
+
